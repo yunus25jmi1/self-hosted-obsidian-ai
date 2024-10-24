@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import type { NextApiRequest, NextApiResponse } from "next";
 import { generateObject } from "ai";
 import { z } from "zod";
