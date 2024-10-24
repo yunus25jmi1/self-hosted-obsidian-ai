@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 // pages/api/audio.ts
 import { NextApiRequest, NextApiResponse } from "next";
 import fs from "fs";
