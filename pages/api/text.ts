@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import { NextApiResponse } from "next";
 import { generateObject, generateText } from "ai";
 import { models } from "@/lib/models";
